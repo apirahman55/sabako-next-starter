@@ -1,7 +1,13 @@
 {
   "name": "sabako-next-starter",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "email": "apirahman55@gmail.com",
+    "name": "Api Dev",
+    "url": "https://www.linkedin.com/in/api-al-rahman/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
