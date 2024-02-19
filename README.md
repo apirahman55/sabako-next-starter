@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Api Al Rahman - [@apuu_](https://discordapp.com/users/745023568244375582) - apirahman55@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/apirahman55/sabako-next-starter](https://github.com/apirahman55/sabako-next-starter)
 
 
 
