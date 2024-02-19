@@ -127,11 +127,10 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 3. Copy a `.env.example` file into `.env.local` in the root directory and include your database connection details and other environment variables.
 
-4. Run server
+4. Run development server
     ```sh
-    pnpm start
+    pnpm dev
     ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
