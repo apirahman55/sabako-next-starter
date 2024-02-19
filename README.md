@@ -55,7 +55,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -77,19 +76,19 @@ Here's why:
 
 Of course, no one boilerplate will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this boilerplate!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![Tailwindcss][Tailwindcss.js]][Tailwindcss-url]
-* [![FramerMotion][FramerMotion.js]][FramerMotion-url]
-* [![Prisma][Prisma.js]][Prisma-url]
-* [![NextAuth][NextAuth.js]][NextAuth-url]
+[![Next][Next.js]][Next-url]
+[![Tailwindcss][Tailwindcss.js]][Tailwindcss-url]
+[![FramerMotion][FramerMotion.js]][FramerMotion-url]
+[![Prisma][Prisma.js]][Prisma-url]
+[![NextAuth][NextAuth.js]][NextAuth-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -132,25 +131,25 @@ _Below is an example of how you can instruct your audience on installing and set
     pnpm dev
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Add Changelog
-- [] Add ESLint & Prettier Rule
-- [] Create Project Structure
-- [] Implement SOLID Principles
-- [] Implement Next Auth
-- [] Implement Clean Architecture
-- [] Implement Prisma ORM w/ Postgres
-- [] Create default design systems
-- [] Setup initial `dockerfile` for easier deployment
+- [ ] Add ESLint & Prettier Rule
+- [ ] Create Project Structure
+- [ ] Implement SOLID Principles
+- [ ] Implement Next Auth
+- [ ] Implement Clean Architecture
+- [ ] Implement Prisma ORM w/ Postgres
+- [ ] Create default design systems
+- [ ] Setup initial `dockerfile` for easier deployment
 
 See the [open issues](https://github.com/apirahman55/sabako-next-starter/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -168,7 +167,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -177,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -188,7 +187,7 @@ Api Al Rahman - [@apuu_](https://discordapp.com/users/745023568244375582) - apir
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
