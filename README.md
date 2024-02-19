@@ -138,7 +138,7 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Roadmap
 
 - [x] Add Changelog
-- [ ] Add ESLint & Prettier Rule
+- [x] Add ESLint & Prettier Rule
 - [ ] Create Project Structure
 - [ ] Implement SOLID Principles
 - [ ] Implement Next Auth
